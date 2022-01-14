@@ -1,0 +1,129 @@
+.title {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-family: acumin-pro, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25;
+    background-color: #D9B504;
+    height: 30px;
+    background-size: auto;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #D9B504;
+    overflow: hidden;
+    font-family: acumin-pro, sans-serif;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #03738C;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #011F26;
+    color: white;
+}
+
+.head {
+    background-color: #D9B504;
+}
+
+.discord_text {
+    margin: 50px;
+    font-family: acumin-pro, sans-serif;
+    font-weight: bold;
+}
+
+
+table {
+    border: 1px solid #011F26;
+    border-collapse: collapse;
+    font-family: acumin-pro, sans-serif;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    font-size: 25;
+    width: 90%;
+}
+
+th {
+    border: 1px solid #011F26;
+    border-collapse: collapse;
+    font-family: acumin-pro, sans-serif;
+    font-size: 25;
+}
+
+td {
+    border: 1px solid #011F26;
+    border-collapse: collapse;
+    font-family: acumin-pro, sans-serif;
+    font-size: 25;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link a:hover {
+    color: #03738C;
+}
+
+.contact {
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+.contact h1 {
+    color: #03738C;
+}
+
+.why {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+.why h1 {
+    color: #03738C;
+}
+
+.box_title_table{
+    color: #03738C;
+}
+
+.date{
+    color: #735702;
+}
+
+.news{
+    margin-top: 2%;
+    margin-right: 5%;
+}
+
+.news_text{
+    color: black;
+}
+
+#body{
+  margin-left: 5%;
+  margin-right: 5%;
+}
